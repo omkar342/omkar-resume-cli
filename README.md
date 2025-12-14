@@ -1,0 +1,1 @@
+# This is a CLI tool that prints your resume in the terminal.

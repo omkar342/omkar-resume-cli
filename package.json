@@ -1,0 +1,23 @@
+{
+  "name": "@omkar-jadhav-7809b7196/resume",
+  "version": "1.0.0",
+  "description": "My resume as a CLI tool",
+  "main": "index.js",
+  "bin": {
+    "resume": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resume",
+    "cli",
+    "npx"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2"
+  }
+}
